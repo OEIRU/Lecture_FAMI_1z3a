@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSI/OSI_5sem/Defence/Osi_5sem_Defence3.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSI/OSI_5sem/Defence/Osi_5sem_Defence3.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSI/OSI_5sem/Defence/Osi_5sem_Defence3.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSI/OSI_5sem/Defence/Osi_5sem_Defence3.md"
+                "file": "README.md"
               }
             }
           }
@@ -173,9 +173,9 @@
   },
   "active": "83332b69796d3dd3",
   "lastOpenFiles": [
+    "OSI/OSI_5sem/Defence/Osi_5sem_Defence3.md",
     "OSI/OSI_5sem/Defence/Osi_5sem_Defence2.md",
     "OSI/OSI_5sem/Defence/Osi_5sem_Defence1.md",
-    "OSI/OSI_5sem/Defence/Osi_5sem_Defence3.md",
     "OSI"
   ]
 }
