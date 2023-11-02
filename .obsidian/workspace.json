@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "81cba2bbbac84a68",
+    "type": "split",
+    "children": [
+      {
+        "id": "873532376035637d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b6d0e028ebc456d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSI/OSI_5sem/Defence/Osi_5sem_Defence1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c81c5bbf0b802a24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSI/OSI_5sem/Defence/Osi_5sem_Defence2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83332b69796d3dd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSI/OSI_5sem/Defence/Osi_5sem_Defence3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78ffc3907aca5515",
+    "type": "split",
+    "children": [
+      {
+        "id": "396c363daab5272d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e8a5f512e8db641",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c207719b0eb6117",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "295c054952a61a29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dee18c55385d621d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ae62f637a1f6e83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6674c7457d619387",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OSI/OSI_5sem/Defence/Osi_5sem_Defence3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43f224613dbec540",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OSI/OSI_5sem/Defence/Osi_5sem_Defence3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08707a79a0c84b5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "305b36b6e0a2c6d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OSI/OSI_5sem/Defence/Osi_5sem_Defence3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "83332b69796d3dd3",
+  "lastOpenFiles": [
+    "OSI/OSI_5sem/Defence/Osi_5sem_Defence2.md",
+    "OSI/OSI_5sem/Defence/Osi_5sem_Defence1.md",
+    "OSI/OSI_5sem/Defence/Osi_5sem_Defence3.md",
+    "OSI"
+  ]
+}
