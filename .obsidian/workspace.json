@@ -37,38 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSI/OSI_5sem/Defence/Osi_5sem_Defence1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c5fc7e175b0b388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSI/OSI_4sem/Defence/Osi_4sem_Defence5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3434407a8d519242",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSI/OSI_4sem/Defence/Osi_4sem_Defence4_Win.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Планерка",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSI/OSI_4sem/Defence/Osi_4sem_Defence4_Win.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSI/OSI_4sem/Defence/Osi_4sem_Defence4_Win.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSI/OSI_4sem/Defence/Osi_4sem_Defence4_Win.md"
+                "file": "README.md"
               }
             }
           }
@@ -195,17 +172,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3434407a8d519242",
+  "active": "5c207719b0eb6117",
   "lastOpenFiles": [
-    "README.md",
-    "OSI/OSI_4sem/Defence/Osi_4sem_Defence4_Win.md",
-    "OSI/OSI_4sem/Defence/Osi_4sem_Defence5.md",
+    "OSI/OSI_5sem/Defence/Osi_5sem_Defence3.md",
     "OSI/OSI_5sem/Defence/Osi_5sem_Defence2.md",
     "OSI/OSI_5sem/Defence/Osi_5sem_Defence1.md",
-    "OSI/OSI_5sem/Defence/Osi_5sem_Defence3.md",
+    "Physics/4sem/Algorithms/lab23_alg.md",
+    "Без названия.md",
+    "OSI/OSI_4sem/Defence/Osi_4sem_Defence5.md",
+    "Physics/4sem/Algorithms",
+    "Physics/4sem",
+    "Physics/Без названия.md",
+    "Physics/Без названия.canvas",
+    "Physics",
+    "OSI/OSI_4sem/Defence/Osi_4sem_Defence4_Win.md",
+    "README.md",
     "OSI/OSI_4sem/Defence",
     "OSI/OSI_4sem",
-    "Без названия",
     "OSI"
   ]
 }
