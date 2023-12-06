@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "873532376035637d",
+        "id": "962d90ee040f11ca",
         "type": "tabs",
         "children": [
           {
-            "id": "1b6d0e028ebc456d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSI/OSI_5sem/Defence/Osi_5sem_Defence1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c81c5bbf0b802a24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSI/OSI_5sem/Defence/Osi_5sem_Defence2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83332b69796d3dd3",
+            "id": "5494fc06da1eb3ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Планерка",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,11 +146,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5c207719b0eb6117",
+  "active": "5494fc06da1eb3ae",
   "lastOpenFiles": [
-    "OSI/OSI_5sem/Defence/Osi_5sem_Defence3.md",
-    "OSI/OSI_5sem/Defence/Osi_5sem_Defence2.md",
+    "2023-12-07.md",
+    "Без названия.canvas",
     "OSI/OSI_5sem/Defence/Osi_5sem_Defence1.md",
+    "OSI/OSI_5sem/Defence/Osi_5sem_Defence2.md",
+    "README.md",
+    "OSI/OSI_5sem/Defence/Osi_5sem_Defence3.md",
     "Physics/4sem/Algorithms/lab23_alg.md",
     "Без названия.md",
     "OSI/OSI_4sem/Defence/Osi_4sem_Defence5.md",
@@ -186,7 +163,6 @@
     "Physics/Без названия.canvas",
     "Physics",
     "OSI/OSI_4sem/Defence/Osi_4sem_Defence4_Win.md",
-    "README.md",
     "OSI/OSI_4sem/Defence",
     "OSI/OSI_4sem",
     "OSI"
